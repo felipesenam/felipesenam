@@ -9,11 +9,11 @@
 - :computer: Desenvolvedor Python Full Stack - Auramind
 
 ### Linguagens e ferramentas:
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"/>
-<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-<img align="left" alt="DynamoDB" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dynamodb/dynamodb-original.svg"/>
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"/>
+<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain-wordmark.svg"/>
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
-
+<img align="left" alt="DynamoDB" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dynamodb/dynamodb-original.svg"/>
