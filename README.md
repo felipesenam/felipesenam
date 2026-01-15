@@ -16,14 +16,3 @@
 <img align="left" alt="Django" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg"/>
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
-<br />
-<br />
-
-<div align="center">
-    <br /> 
-    <br />
-    <a href="https://github.com/felipesenam"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesenam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesenam&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
