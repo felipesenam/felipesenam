@@ -5,8 +5,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipesenam/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:felipesena.m@gmail.com)
 
-- :mortar_board: Discente de Tecnologia da Informação - UFRN/IMD
-- :computer: Desenvolvedor Full Stack Django - ESUFRN
+- :mortar_board: Tecnologia da Informação - UFRN/IMD
+- :computer: Desenvolvedor Python Full Stack - Auramind
 
 ### Linguagens e ferramentas:
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg"/>
