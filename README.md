@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:felipesena.m@gmail.com)
 
 - :mortar_board: Tecnologia da Informação - UFRN/IMD
-- :computer: Desenvolvedor Python Full Stack - Auramind
+- :computer: Desenvolvedor Backend Python - Auramind
 
 ### Linguagens e ferramentas:
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg"/>
